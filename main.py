@@ -8,7 +8,7 @@ import os
 import openai
 
 # Set your OpenAI API key
-openai.api_key = "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"
+openai.api_key = ""
 
 def main():
     # Step 1: Download YouTube video
